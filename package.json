@@ -1,0 +1,19 @@
+{
+  "name": "sampleapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padmajabg123/samplefordocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padmajabg123/samplefordocker/issues"
+  },
+  "homepage": "https://github.com/padmajabg123/samplefordocker#readme"
+}
